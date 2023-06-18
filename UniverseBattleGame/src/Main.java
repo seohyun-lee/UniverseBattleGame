@@ -1,6 +1,6 @@
 
 
-import view.StartView;
+import view.*;
 
 public class Main {
 	

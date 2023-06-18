@@ -6,7 +6,7 @@ public class Player {
 	private int HP;
 	private int ATK;
 	private int DEF;
-	private String imgFile; // 이미지 파일 이름을 저장할 문자열
+	private String imgFile; //이미지 파일 이름을 저장할 문자열
 
 	public Player() {}
 	
@@ -35,7 +35,7 @@ public class Player {
 	}
 
 	public void setImgFile(String imgFile) {
-		this.imgFile = "./src/images/" + imgFile;
+		this.imgFile = "/images/" + imgFile;
 	}
 
 	public int getDEF() {
