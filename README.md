@@ -3,10 +3,11 @@
 
 ## 1. 프로그램 목적
 *Universe (Band) Battle Game!* 우리의 주인공은 지구 출신의 록 밴드인데, 특별한 초능력을 갖게 되어 우주를 수호하는 히어로로 활동하고 있다. 그들은 우주의 평화를 깨뜨리는 우주 괴물들과 싸워 이겨야 한다!
+
 사용자는 Singer, Guitarist, Bassist, Drummer 중 하나의 Musician을 선택해 플레이한다.
 
 ## 2. 클래스 다이어그램
-![ClassDiagram-최종](https://github.com/seohyun-lee/UniverseBattleGame/assets/32611398/94db9463-56eb-418e-9605-ad8c3fb8a2e3)
+![ClassDiagram-최종](https://github.com/seohyun-lee/UniverseBattleGame/assets/32611398/3ec5bf60-7d52-45bf-bcad-33dfc1aeefa8)
 
 ## 3. 동작 시나리오
 (1)	시작 화면에서 'START 버튼'을 누르면 게임을 시작한다.
@@ -41,4 +42,4 @@
 (8)	네 마리의 몬스터를 모두 처치하면 게임 클리어 화면이 뜨고 특별한 이미지가 뜬다. Reset으로 게임을 초기화할 수 있다.
 
 ## 4. 시연 영상
-https://github.com/seohyun-lee/UniverseBattleGame/assets/32611398/fe1a388a-f83f-41d2-8375-6a734da983f1
+https://github.com/seohyun-lee/UniverseBattleGame/assets/32611398/dfee5f6a-c6d5-43a2-bb63-c229e40369bd
